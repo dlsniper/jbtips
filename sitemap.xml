@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dlsniper.github.io/jbtips/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tips/</loc>
+    <loc>https://dlsniper.github.io/jbtips/tips/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://dlsniper.github.io/jbtips/about/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://dlsniper.github.io/jbtips/authors/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dlsniper.github.io/jbtips/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/config/</loc>
+    <loc>https://dlsniper.github.io/jbtips/tags/config/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/og/</loc>
+    <loc>https://dlsniper.github.io/jbtips/tags/og/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://dlsniper.github.io/jbtips/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://dlsniper.github.io/jbtips/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dlsniper.github.io/jbtips/tags/</loc>
     <priority>0</priority>
   </url>
   
