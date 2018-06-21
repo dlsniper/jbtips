@@ -5,6 +5,7 @@
     <link>https://dlsniper.github.io/jbtips/</link>
     <description>Recent content in Home on JBTips</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Jun 2018 09:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://dlsniper.github.io/jbtips/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +21,18 @@ Do you want to contribute your own?
 Then go to our repository, https://github.com/dlsniper/jbtips, and send us a pull request.
 The tips and code displayed here are available under the Apache 2.0 license.
 This website is built using Hugo v0.42.1 with the Minimo theme at revision f7d501029d288d3073d3bb58ff35a4453e1e7fdd</description>
+    </item>
+    
+    <item>
+      <title>Generic tip</title>
+      <link>https://dlsniper.github.io/jbtips/tips/generic/</link>
+      <pubDate>Thu, 21 Jun 2018 09:00:00 +0300</pubDate>
+      
+      <guid>https://dlsniper.github.io/jbtips/tips/generic/</guid>
+      <description>View all the installed Postfix completions #DriveToDevelop pic.twitter.com/6Io0myh863
+&amp;mdash; IntelliJ IDEA (@intellijidea) June 19, 2018 
+This is how a generic code tip could look like.
+1 2 3 4 5  package main func main() { println(&amp;#34;demo&amp;#34;) }   For a complete list of supported languages for highlighting, see: https://gohugo.io/content-management/syntax-highlighting/</description>
     </item>
     
   </channel>

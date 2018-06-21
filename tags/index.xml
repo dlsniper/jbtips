@@ -5,6 +5,7 @@
     <link>https://dlsniper.github.io/jbtips/tags/</link>
     <description>Recent content in Tags on JBTips</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Jun 2018 09:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://dlsniper.github.io/jbtips/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,6 +16,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dlsniper.github.io/jbtips/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic</title>
+      <link>https://dlsniper.github.io/jbtips/tags/generic/</link>
+      <pubDate>Thu, 21 Jun 2018 09:00:00 +0300</pubDate>
+      
+      <guid>https://dlsniper.github.io/jbtips/tags/generic/</guid>
       <description></description>
     </item>
     
