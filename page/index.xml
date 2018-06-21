@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on JBTips</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on JBTips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Here we&amp;rsquo;ll share tips and tricks about our IDEs.
+Do you want to contribute your own?
+Then go to our repository, https://github.com/dlsniper/jbtips, and send us a pull request.
+The tips and code displayed here are available under the Apache 2.0 license.
+This website is built using Hugo v0.42.1 with the Minimo theme at revision f7d501029d288d3073d3bb58ff35a4453e1e7fdd</description>
+    </item>
+    
+  </channel>
+</rss>

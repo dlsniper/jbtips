@@ -1,0 +1,17 @@
+@media screen and (min-width: 920px) {
+    .main {
+        width: 920px;
+    }
+}
+
+.footer {
+    text-align: right;
+}
+
+.sidebar .widget-about .logo {
+    margin-left: unset;
+}
+
+.widget-about .logo {
+    max-width: unset;
+}
