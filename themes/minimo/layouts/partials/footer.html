@@ -1,0 +1,20 @@
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          {{- $footerWidgets := .Site.Params.widgets.footer -}}
+          {{- range $footerWidgets -}}
+            {{- partial ( print "widgets/" . ) $ -}}
+          {{- end -}}
+          {{ partial "footer/copyright" . }}
+        </div>
+      </footer>
+
+    </div>
+  </div>
+
+  {{- partial "footer/scripts" . -}}
+
+</body>
+
+</html>

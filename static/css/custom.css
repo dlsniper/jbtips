@@ -1,0 +1,28 @@
+@media screen and (min-width: 920px) {
+    .main {
+        width: 660px;
+    }
+
+    .sidebar {
+        position: unset !important;
+        width: 300px;
+    }
+
+    .site {
+        width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.footer {
+    text-align: right;
+}
+
+.sidebar .widget-about .logo {
+    margin-left: unset;
+}
+
+.widget-about .logo {
+    max-width: unset;
+}
