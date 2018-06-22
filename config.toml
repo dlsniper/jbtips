@@ -1,4 +1,4 @@
-baseURL = "https://dlsniper.github.io/jbtips/"
+baseURL = "http://candothis.one/"
 title = "JBTips"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
