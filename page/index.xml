@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on JBTips</title>
-    <link>https://dlsniper.github.io/jbtips/page/</link>
+    <link>http://candothis.one/page/</link>
     <description>Recent content in Pages on JBTips</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://dlsniper.github.io/jbtips/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://candothis.one/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://dlsniper.github.io/jbtips/about/</link>
+      <link>http://candothis.one/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dlsniper.github.io/jbtips/about/</guid>
+      <guid>http://candothis.one/about/</guid>
       <description>Here we&amp;rsquo;ll share tips and tricks about our IDEs.
 Do you want to contribute your own?
 Then go to our repository, https://github.com/dlsniper/jbtips, and send us a pull request.

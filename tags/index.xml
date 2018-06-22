@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JBTips</title>
-    <link>https://dlsniper.github.io/jbtips/tags/</link>
+    <link>http://candothis.one/tags/</link>
     <description>Recent content in Tags on JBTips</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Jun 2018 09:00:00 +0300</lastBuildDate>
     
-	<atom:link href="https://dlsniper.github.io/jbtips/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://candothis.one/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Configuration</title>
-      <link>https://dlsniper.github.io/jbtips/tags/config/</link>
+      <link>http://candothis.one/tags/config/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dlsniper.github.io/jbtips/tags/config/</guid>
+      <guid>http://candothis.one/tags/config/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generic</title>
-      <link>https://dlsniper.github.io/jbtips/tags/generic/</link>
+      <link>http://candothis.one/tags/generic/</link>
       <pubDate>Thu, 21 Jun 2018 09:00:00 +0300</pubDate>
       
-      <guid>https://dlsniper.github.io/jbtips/tags/generic/</guid>
+      <guid>http://candothis.one/tags/generic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opengraph</title>
-      <link>https://dlsniper.github.io/jbtips/tags/og/</link>
+      <link>http://candothis.one/tags/og/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dlsniper.github.io/jbtips/tags/og/</guid>
+      <guid>http://candothis.one/tags/og/</guid>
       <description></description>
     </item>
     

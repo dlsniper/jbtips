@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on JBTips</title>
-    <link>https://dlsniper.github.io/jbtips/</link>
+    <link>http://candothis.one/</link>
     <description>Recent content in Home on JBTips</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Jun 2018 09:00:00 +0300</lastBuildDate>
     
-	<atom:link href="https://dlsniper.github.io/jbtips/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://candothis.one/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://dlsniper.github.io/jbtips/about/</link>
+      <link>http://candothis.one/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dlsniper.github.io/jbtips/about/</guid>
+      <guid>http://candothis.one/about/</guid>
       <description>Here we&amp;rsquo;ll share tips and tricks about our IDEs.
 Do you want to contribute your own?
 Then go to our repository, https://github.com/dlsniper/jbtips, and send us a pull request.
@@ -25,13 +25,12 @@ This website is built using Hugo v0.42.1 with the Minimo theme at revision f7d50
     
     <item>
       <title>Generic tip</title>
-      <link>https://dlsniper.github.io/jbtips/tips/generic/</link>
+      <link>http://candothis.one/tips/generic/</link>
       <pubDate>Thu, 21 Jun 2018 09:00:00 +0300</pubDate>
       
-      <guid>https://dlsniper.github.io/jbtips/tips/generic/</guid>
+      <guid>http://candothis.one/tips/generic/</guid>
       <description>View all the installed Postfix completions #DriveToDevelop pic.twitter.com/6Io0myh863
-&amp;mdash; IntelliJ IDEA (@intellijidea) June 19, 2018 
-This is how a generic code tip could look like.
+&amp;mdash; IntelliJ IDEA (@intellijidea) June 19, 2018 This is how a generic code tip could look like.
 1 2 3 4 5  package main func main() { println(&amp;#34;demo&amp;#34;) }   For a complete list of supported languages for highlighting, see: https://gohugo.io/content-management/syntax-highlighting/</description>
     </item>
     

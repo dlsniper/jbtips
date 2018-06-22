@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JBTips</title>
-    <link>https://dlsniper.github.io/jbtips/categories/</link>
+    <link>http://candothis.one/categories/</link>
     <description>Recent content in Categories on JBTips</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://dlsniper.github.io/jbtips/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://candothis.one/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Generic Tips</title>
-      <link>https://dlsniper.github.io/jbtips/categories/generic-tips/</link>
+      <link>http://candothis.one/categories/generic-tips/</link>
       <pubDate>Thu, 21 Jun 2018 09:00:00 +0300</pubDate>
       
-      <guid>https://dlsniper.github.io/jbtips/categories/generic-tips/</guid>
+      <guid>http://candothis.one/categories/generic-tips/</guid>
       <description></description>
     </item>
     

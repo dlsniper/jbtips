@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/</loc>
+    <loc>http://candothis.one/</loc>
     <lastmod>2018-06-21T09:00:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/tips/</loc>
+    <loc>http://candothis.one/tips/</loc>
     <lastmod>2018-06-21T09:00:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/about/</loc>
+    <loc>http://candothis.one/about/</loc>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/tips/generic/</loc>
+    <loc>http://candothis.one/tips/generic/</loc>
     <lastmod>2018-06-21T09:00:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/authors/</loc>
+    <loc>http://candothis.one/authors/</loc>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/categories/</loc>
+    <loc>http://candothis.one/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/tags/config/</loc>
+    <loc>http://candothis.one/tags/config/</loc>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/authors/dlsniper/</loc>
-    <lastmod>2018-06-21T09:00:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dlsniper.github.io/jbtips/tags/generic/</loc>
+    <loc>http://candothis.one/authors/dlsniper/</loc>
     <lastmod>2018-06-21T09:00:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/categories/generic-tips/</loc>
+    <loc>http://candothis.one/tags/generic/</loc>
     <lastmod>2018-06-21T09:00:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/tags/og/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dlsniper.github.io/jbtips/page/</loc>
+    <loc>http://candothis.one/categories/generic-tips/</loc>
+    <lastmod>2018-06-21T09:00:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/series/</loc>
+    <loc>http://candothis.one/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>http://candothis.one/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dlsniper.github.io/jbtips/tags/</loc>
+    <loc>http://candothis.one/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://candothis.one/tags/</loc>
     <lastmod>2018-06-21T09:00:00+03:00</lastmod>
     <priority>0</priority>
   </url>
